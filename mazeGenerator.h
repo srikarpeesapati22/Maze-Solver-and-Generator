@@ -1,0 +1,12 @@
+void sleep_function();
+int getRandomNumber(int, int);
+void drawMaze(char*[], int);
+void resetTemp(char*, int);
+void initializeMazeArray(char*[], int, char*);
+void getAdjacentBlocks(int[][2], int, int*, int[4][2], int);
+int checkIfInPath(int*, int[][2], int);
+int checkIfInAdjBlocks(int*, int*, int[][2]);
+void clearPath(char*[], int[][2], int);
+int allAdjInPath(int[][2], int, int*, int[][2]);
+void makePath(char*[], int);
+void mazeGenerator();

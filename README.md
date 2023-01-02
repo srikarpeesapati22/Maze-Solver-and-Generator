@@ -3,13 +3,13 @@
 ## Description
 
 First draws a basic maze and solves it using a hardcoded solution (Stages 1 and 2)
-![image](https://user-images.githubusercontent.com/112534138/200616121-f47b9b91-ab76-4fa9-859f-39023e33eddf.png)
+
 
 Next, draws a slightly more complex maze and solves it using a depth-first-search algorithm (Stage 3)
-![image](https://user-images.githubusercontent.com/112534138/200616539-2937c5ef-26dc-426e-9fdc-b3f61a1dc2e1.png)
+
 
 Lastly, draws a complex maze with a size between 30x30 to 150x150 and solves it using a depth-first-search algorithm (Stages 4 and 5)
-![image](https://user-images.githubusercontent.com/112534138/200617207-3fc57100-93b4-4f04-a60a-07a3373b6b56.png)
+
 
 ## Usage
 ### Compiling
